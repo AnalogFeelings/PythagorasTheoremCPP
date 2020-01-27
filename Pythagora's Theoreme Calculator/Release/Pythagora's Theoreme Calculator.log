@@ -1,0 +1,8 @@
+﻿  Pythagora's Theoreme Calculator.cpp
+C:\Users\cakea\source\repos\Pythagora's Theoreme Calculator\Pythagora's Theoreme Calculator.cpp(22,9): warning C4101: 'hipotenusa': unreferenced local variable
+  Generating code
+  1 of 19 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pythagora's Theoreme Calculator.vcxproj -> C:\Users\cakea\source\repos\Pythagora's Theoreme Calculator\Release\Pythagoras Theorem Calculator.exe
