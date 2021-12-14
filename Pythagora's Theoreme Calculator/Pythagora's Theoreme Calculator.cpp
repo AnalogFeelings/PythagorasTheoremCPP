@@ -25,7 +25,7 @@ int main()
 	SetColor(12);
 	cout << "PYTHAGORAS THEOREM CALCULATOR" << endl;
 	SetColor(6);
-	cout << "Manuel 2020" << endl;
+	cout << "Nora 2020" << endl;
 	cout << endl;
 	SetColor(11);
 
